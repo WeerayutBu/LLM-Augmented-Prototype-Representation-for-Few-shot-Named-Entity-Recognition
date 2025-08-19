@@ -1,7 +1,7 @@
 LLM-Augmented Prototype Representation for Few-shot Named Entity Recognition
 ============================================================================
 
-This repository supports our work on **LLM-Augmented Prototype Representation** for **Few-shot Named Entity Recognition (NER)**. Our approach integrates large language models (LLMs) into prototype-based few-shot learning to enhance performance in low-resource and cross-domain settings.
+This repository supports our work on **LLM-Augmented Prototype Representation** for **Few-shot Named Entity Recognition (NER)**. In this paper, we propose a new LLM-based data augmentation method and a representation learning objective from the augmented dataset for the FS-NER task. Our method aims to handle new entity types and increase inference efficiency in this setting. 
 
 ### Datasets
 
